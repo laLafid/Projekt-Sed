@@ -1,5 +1,7 @@
 # Program Kalkulasi Slip Gaji
 
+# Video
+[Youtube](https://youtu.be/yeIlf4-V9S8)
 
 # Cara Kerja Program Ini
 1. Meminta pengguna menginputkan data.
